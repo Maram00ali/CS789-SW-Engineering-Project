@@ -18,7 +18,7 @@ This is a project of software engineering postgraduate course.
 
 **Selected paper title**   
   
- COSTER: A Tool for Finding Fully Qualified Names of API Elements in Online Code Snippets. 
+ COSTER : A Tool for Finding Fully Qualified Names of API Elements in Online Code Snippets. 
   
   <br/><br/>
   **Proposed work** 
